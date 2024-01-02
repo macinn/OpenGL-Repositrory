@@ -64,4 +64,4 @@
 
 
 # remove dependencies from language stats
-Dependiences/* linguist-vendored
+Dependiences/** linguist-vendored
